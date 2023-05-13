@@ -1,2 +1,2 @@
-# algorithm-visualizer
-📊 This web app visualizes commonly used sorting algorithms.
+# Sorting Algorithm Visualizer
+📶 This web app visualizes commonly used sorting algorithms.
